@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "rootDir": "./src",
+    "outDir": "./build",
+    "noUnusedParameters": false,
+    "noEmitOnError": false,
+    "watch": true,
+    "sourceMap": true,
+    "target": "es5",
+    "lib": [
+      "es6",
+      "es7",
+      "dom"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
